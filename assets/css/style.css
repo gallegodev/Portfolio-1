@@ -17,13 +17,13 @@ body {
     font-size: 700%;
     margin-left: 20px;
     float: left;
-    font-family: Dancing Script, sans-serif;
-    color: #F5C545
+    
 }
 
 h1, h2 {
     font-family: Anton, sans-serif;
     color: #000;
+    text-transform: uppercase;
 }
 
 #menu{
@@ -49,4 +49,18 @@ h1, h2 {
 
 #menu, #logo {
      line-height: 150px;
+}
+
+/* Shop-photo*/
+
+#shop-photo-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#shop-photo {
+    height: 500px;
+    width: 100%;
+    background-image: url(../images/coffee-beans.jpeg);
 }
