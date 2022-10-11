@@ -14,16 +14,16 @@ body {
 /* Logo and heading*/
 
 #logo {
-    font-size: 700%;
+    font-size: 500%;
     margin-left: 20px;
     float: left;
     
 }
 
 h1, h2 {
-    font-family: Anton, sans-serif;
+    font-family: Dancing Script, sans-serif;
     color: #000;
-    text-transform: uppercase;
+    
 }
 
 #menu{
@@ -62,5 +62,8 @@ h1, h2 {
 #shop-photo {
     height: 500px;
     width: 100%;
-    background-image: url(../images/coffee-beans.jpeg);
+    background-image: url(../images/background4.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 110%;
 }
