@@ -33,7 +33,7 @@ h1, h2 {
 #menu > li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 #menu a{
@@ -71,3 +71,28 @@ h1, h2 {
     background-repeat: no-repeat;
     background-size: 110%;
 }
+
+/*coffeehouse ethos*/
+
+.welcome {
+    font-size: 400%;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.box {
+    float: left;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.box2 > h1 {
+    font-size: 250%;
+}
+
+.box2 {
+    float: right;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
