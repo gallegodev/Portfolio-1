@@ -45,6 +45,10 @@ h1, h2 {
      border-bottom: 1px solid #000;
 }
 
+.active {
+    border-bottom: 1px solid #000;
+}
+
 /* menu navigation */
 
 #menu, #logo {
