@@ -61,6 +61,7 @@ h1, h2 {
     height: 500px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 #shop-photo {
@@ -74,25 +75,70 @@ h1, h2 {
 
 /*coffeehouse ethos*/
 
-.welcome {
-    font-size: 400%;
-    text-align: center;
-    margin-top: 40px;
+#coffeeshop-ethos{
+    height: 750px;
 }
 
-.box {
+#left-about{
+    padding-top: 30px;
+    width: 33%;
     float: left;
-    margin-left: 400px;
-    margin-top: 50px;
 }
 
-.box2 > h1 {
-    font-size: 250%;
-}
-
-.box2 {
+#right-about{
+    padding-top: 30px;
+    width: 33%;
     float: right;
-    margin-left: 30px;
-    margin-top: 50px;
 }
 
+#center-about{
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+
+}
+
+.left-about-heading{
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading{
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#image-container {
+    height: 430px;
+    width: 640px;
+}
+
+#image-bg {
+    background: url(../images/coffeeshop4.jpg);
+    height: 100%;
+}
