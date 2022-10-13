@@ -142,3 +142,28 @@ hr {
     background: url(../images/coffeeshop4.jpg);
     height: 100%;
 }
+
+/* Footer */
+
+footer {
+    height: 150px;
+    background-color: #000;
+}
+
+.social {
+    text-align: center;
+}
+
+.social > li {
+    list-style: none;
+    display: inline-block;
+    line-height: 170px;
+    margin-right: 50px;
+}
+
+.social i {
+    color: #fff;
+    font-size: 200%; 
+    margin: 1%;
+    padding: 5%;   
+}
