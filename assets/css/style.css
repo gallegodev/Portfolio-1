@@ -139,7 +139,7 @@ h1, h2 {
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 100%;
     background-color: #000;
 }
 
@@ -149,14 +149,13 @@ footer {
 
 .social > li {
     list-style: none;
-    display: inline-block;
-    line-height: 170px;
-    margin-right: 50px;
+    display: inline;
+    
 }
 
 .social i {
     color: #fff;
-    font-size: 200%; 
+    font-size: 150%;
     margin: 1%;
-    padding: 5%;   
+    padding: 3%;
 }
