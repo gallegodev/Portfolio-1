@@ -70,13 +70,13 @@ h1, h2 {
     background-image: url(../images/background4.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: 110%;
+    background-size: cover;
 }
 
 /*coffeehouse ethos*/
 
 #coffeeshop-ethos{
-    height: 750px;
+    height: 650px;
 }
 
 #left-about{
@@ -94,13 +94,6 @@ h1, h2 {
 #center-about{
     width: 33%;
     margin: 0 auto;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px 0;
-
 }
 
 .left-about-heading{
