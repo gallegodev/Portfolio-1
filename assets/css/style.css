@@ -231,7 +231,7 @@ footer {
     border-color: #fcba03;
 }
 
-.join-button {
+.submit-button {
     margin-top: 20px;
     border-radius: 2px;
     padding: 30px 32px 30px 32px;
@@ -240,6 +240,11 @@ footer {
     background-color: #000;
     color: #fff;
     text-align: center;
+}
+
+.submit-button:hover {
+    background-color: #fcba03;
+    color: #000;
 }
 
 #signup-text h1 {
