@@ -275,3 +275,13 @@ footer {
     font-size: 40px;
     color:#fcba03;
 }
+
+/* Menu */
+
+#menu-box{
+    height: 1000px;
+    background-image: url(../images/signup1.jpg);
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+}
