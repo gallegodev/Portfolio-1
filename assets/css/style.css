@@ -140,6 +140,25 @@ h1, h2, h3 {
     height: 100%;
 }
 
+/* Ceffeehouse video*/
+
+#coffee-video{
+    text-align: center;
+    padding: 20px;
+}
+
+#coffee-video h1 {
+    font-size: 80px;
+}
+
+#coffee-video p{
+    font-size: 20px;
+}
+
+#coffee-video h2{
+    font-size: 40px;
+}
+
 /* Footer */
 
 footer {
@@ -249,7 +268,7 @@ footer {
 
 #signup-text h1 {
     font-size: 100px;
-    color: #fcba03;;
+    color: #fcba03;
 }
 
 #signup-text h2{
