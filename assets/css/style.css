@@ -278,11 +278,12 @@ footer {
 /* Menu */
 
 #menu-box{
-    height: 900px;
+    height: 1100px;
     background-image: url(../images/menu1.jpg);
     background-size: cover;
     width: 100%;
     text-align: center;
+    display: block;
 }
 
 #menu-box h1 {
@@ -292,18 +293,27 @@ footer {
 }
 
 .menu-content {
-    height: 600px;
-    width: 400px;
+    height: 800px;
+    width: 600px;
     background-color: #fafafa;
     margin: 50px 10% 0 0;
     position: absolute;
-    left: 39%;
+    left: 35%;
     padding: 20px;
     text-align: center;
 }
 
+.menu-content > h2 {
+    font-size: 25px;
+}
+
 .menu-content > h3 {
     text-align: left;
-    font-size: 30px;
+    font-size: 20px;
     color: #fcba03;
+}
+
+.menu-content > p {
+    text-align: left;
+    font-size: 15px;
 }
