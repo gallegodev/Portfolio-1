@@ -19,9 +19,8 @@ body {
 
 #logo {
     font-size: 300%;
-    margin-left: 20px;
-    float: left;
     margin-left: 30px;
+    float: left;
 }
 
 h1, h2, h3 {
@@ -148,7 +147,7 @@ h1, h2, h3 {
 }
 
 #coffee-video h1 {
-    font-size: 80px;
+    font-size: 60px;
 }
 
 #coffee-video p{
@@ -279,9 +278,32 @@ footer {
 /* Menu */
 
 #menu-box{
-    height: 1000px;
-    background-image: url(../images/signup1.jpg);
+    height: 900px;
+    background-image: url(../images/menu1.jpg);
     background-size: cover;
     width: 100%;
     text-align: center;
+}
+
+#menu-box h1 {
+    font-size: 80px;
+    color: #fcba03;
+    
+}
+
+.menu-content {
+    height: 600px;
+    width: 400px;
+    background-color: #fafafa;
+    margin: 50px 10% 0 0;
+    position: absolute;
+    left: 39%;
+    padding: 20px;
+    text-align: center;
+}
+
+.menu-content > h3 {
+    text-align: left;
+    font-size: 30px;
+    color: #fcba03;
 }
