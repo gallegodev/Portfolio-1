@@ -76,6 +76,7 @@ h1, h2, h3 {
     background-size: cover;
 }
 
+
 /*coffeehouse ethos*/
 
 #coffeeshop-ethos{
@@ -88,10 +89,22 @@ h1, h2, h3 {
     float: left;
 }
 
+#left-about a {
+    font-family: Dancing Script, sans-serif;
+    color: #000;
+    font-size: 25px;
+}
+
 #right-about{
     padding-top: 30px;
     width: 33%;
     float: right;
+}
+
+#right-about a {
+    font-family: Dancing Script, sans-serif;
+    color: #000;
+    font-size: 25px;
 }
 
 #center-about{
