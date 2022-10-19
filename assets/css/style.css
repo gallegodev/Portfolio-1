@@ -422,6 +422,13 @@ footer {
 
 @media screen and (max-width: 950px) {
 
+
+#menu {
+   font-size: 100%;
+   width: 100%;
+}
+    
+
 #shop-photo-outer {
     height: 400px;
 }
@@ -495,6 +502,7 @@ footer {
 
 #signup-text {
     margin: 150px 5% 0 0;
+    height: 500px;
     width: 100%;
     position: absolute;
     left: 0;
@@ -523,4 +531,6 @@ footer {
     margin: 7%;
     padding: 5%;
 }
+
+
 }
