@@ -68,7 +68,7 @@ h1, h2, h3 {
 }
 
 #shop-photo {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background-image: url(../images/background5.jpg);
     background-position: center center;
@@ -337,6 +337,8 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+    /*index.html*/
+
     #coffeeshop-ethos{
         width: 65%;
         height: 1200px;
@@ -371,4 +373,11 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
     }
+
+    /*menu.html*/
+  
+    .menu-content {
+        left: 23%;
+    }
+
 }
