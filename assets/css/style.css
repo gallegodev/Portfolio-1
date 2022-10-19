@@ -434,4 +434,28 @@ footer {
     padding: 0 20px;
 }
 
+/*menu.html*/
+
+#menu-box{
+    height: 1200px;
+}
+
+.menu-content {
+    height: 900px;
+    width: 100%;
+    margin: 0 auto;
+    position: absolute;
+    left: 0%;
+    padding: 5px;
+}
+
+.menu-content > p {
+    width: 90%;
+    text-align: center;
+}
+
+.menu-content > h3 {
+    text-align: center;
+}
+
 }
