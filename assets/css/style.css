@@ -491,4 +491,29 @@ footer {
     height: 900px;
 }
 
+/*signup.html*/
+
+#signup-text {
+    margin: 150px 5% 0 0;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    padding: 0;
+}
+
+#signup-text h1 {
+    font-size: 350%;
+    color: #fcba03;
+}
+
+#signup-text h2{
+    font-size: 150%;
+    color:#fcba03;
+}
+
+.submit-button {
+    padding: 20px 22px 20px 22px;
+    
+}
+
 }
