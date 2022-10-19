@@ -444,6 +444,7 @@ footer {
     height: 900px;
     width: 100%;
     margin: 0 auto;
+    margin-top: 30px;
     position: absolute;
     left: 0%;
     padding: 5px;
@@ -456,6 +457,12 @@ footer {
 
 .menu-content > h3 {
     text-align: center;
+}
+
+/*location.html*/
+
+#location-box {
+    height: 900px;
 }
 
 }
