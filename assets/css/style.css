@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: PT Sans, sans-serif;
+    font-family: "PT Sans", sans-serif;
     color: #000;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
     color: #000;
     
 }
@@ -78,7 +78,7 @@ h1, h2, h3 {
 
 #cover-text {
     font-size: 230%;
-    font-family:Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
     width: 320px;
     height: 300px;
     padding-top: 40px;
@@ -106,7 +106,7 @@ h1, h2, h3 {
 }
 
 #left-about a {
-    font-family: Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
     color: #000;
     font-size: 25px;
 }
@@ -118,7 +118,7 @@ h1, h2, h3 {
 }
 
 #right-about a {
-    font-family: Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
     color: #000;
     font-size: 25px;
 }
@@ -344,14 +344,14 @@ footer {
 
 .menu-content > h3 {
     font-size: 25px;
-    font-family: Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
 }
 
 .menu-content > h4 {
     text-align: left;
     font-size: 20px;
     color: #fcba03;
-    font-family: Dancing Script, sans-serif;
+    font-family: "Dancing Script", sans-serif;
 }
 
 .menu-content > p {
