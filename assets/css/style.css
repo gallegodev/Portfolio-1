@@ -304,12 +304,12 @@ footer {
     color: #000;
 }
 
-#signup-text h1 {
+#signup-text h2 {
     font-size: 100px;
     color: #fcba03;
 }
 
-#signup-text h2{
+#signup-text h3{
     font-size: 40px;
     color:#fcba03;
 }
@@ -418,6 +418,8 @@ footer {
     }
 
 }
+
+/*For medium screens sizes from 1200px wide and down*/
 
 @media screen and (max-width: 1200px) {
 
@@ -578,12 +580,12 @@ footer {
     padding: 0;
 }
 
-#signup-text h1 {
+#signup-text h2 {
     font-size: 350%;
     color: #fcba03;
 }
 
-#signup-text h2{
+#signup-text h3{
     font-size: 150%;
     color:#fcba03;
 }
