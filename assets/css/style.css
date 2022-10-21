@@ -174,7 +174,11 @@ h1, h2, h3 {
     text-align: center;
     padding: 20px;
     border: 0px;
-    margin: 0 auto;
+}
+
+#coffee-video iframe {
+    width: 100%;
+
 }
 
 #coffee-video h2 {
@@ -222,7 +226,11 @@ footer {
     margin: 0 auto;
 }
 
-#location-box h1{
+#location-box iframe {
+    width: 100%;
+}
+
+#location-box h2{
     font-size: 100px;
     text-align: center;
     color: #fcba03;
@@ -236,12 +244,12 @@ footer {
     text-align: center;
 }
 
-#times-box h2 {
+#times-box h3 {
     color: #fcba03;
     font-size: 50px;
 }
 
-#times-box h3 {
+#times-box h4 {
     font-size: 20px;
     color: #fff;
 }
@@ -317,7 +325,7 @@ footer {
     display: block;
 }
 
-#menu-box h1 {
+#menu-box h2 {
     font-size: 80px;
     color: #fcba03;
     
@@ -334,14 +342,16 @@ footer {
     text-align: center;
 }
 
-.menu-content > h2 {
+.menu-content > h3 {
     font-size: 25px;
+    font-family: Dancing Script, sans-serif;
 }
 
-.menu-content > h3 {
+.menu-content > h4 {
     text-align: left;
     font-size: 20px;
     color: #fcba03;
+    font-family: Dancing Script, sans-serif;
 }
 
 .menu-content > p {
@@ -547,7 +557,7 @@ footer {
     text-align: center;
 }
 
-.menu-content > h3 {
+.menu-content > h4 {
     text-align: center;
 }
 
