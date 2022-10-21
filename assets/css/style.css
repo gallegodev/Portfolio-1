@@ -173,9 +173,11 @@ h1, h2, h3 {
 #coffee-video{
     text-align: center;
     padding: 20px;
+    border: 0px;
+    margin: 0 auto;
 }
 
-#coffee-video h1 {
+#coffee-video h2 {
     font-size: 60px;
 }
 
@@ -183,7 +185,7 @@ h1, h2, h3 {
     font-size: 20px;
 }
 
-#coffee-video h2{
+#coffee-video h3{
     font-size: 40px;
 }
 
