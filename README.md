@@ -233,3 +233,24 @@ Users of this website will be able to find all the information they need to know
 </ul>
 <br>
 <p>The live link can be found here - <a href="https://gallegodev.github.io/Portfolio-1/index.html" target="_blank" aria-label=" Visit Lola Coffeehouse webpage (Opens in another page)">Lola Coffeehouse</a>
+
+# Credits
+<h2>Content</h2>
+<ul>
+    <li>
+        <p>The code to make social media, coffeehouse ethos was taken from the CI <a href="https://gallegodev.github.io/love-running/" target="_blank" aria-label=" Visit Love Running webpage (Opens in another page)">Love Running</a> Project</p>
+    </li>
+</ul>
+<br>
+<h2>Media</h2>
+<ul>
+    <li>
+        <p>The images used on the website was taken from <a href="https://www.freepik.com/" target="_blank" aria-label=" Visit Freepick webpage (Opens in another page)">Freepick</a></p>
+    </li>
+    <li>
+        <p>The fonts used on the website was taken from <a href="https://fonts.google.com/" target="_blank" aria-label=" Visit Google Fonts webpage (Opens in another page)">Google Fonts</a></p>
+    </li>
+    <li>
+        <p>The symbols used on the website was taken from <a href="https://fontawesome.com/search" target="_blank" aria-label=" Visit Font Awesome webpage (Opens in another page)">Font Awesome</a></p>
+    </li>
+</ul>
