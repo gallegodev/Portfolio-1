@@ -11,13 +11,16 @@ Users of this website will be able to find all the information they need to know
 <br>
 <ul>
     <li>
-        <p>Feature at the top of the page, the naviagtion shows the coffeehouse name in the left corner:Lola Coffeehouse that links to the home page.
+        <p>Feature at the top of the page, the naviagtion shows the coffeehouse name in the left corner:Lola Coffeehouse that links to the home page.</p>
     </li>
     <li>
-        <p>The other navigation links are to the right: Home, Menu, Location, Sign up.
+        <p>The other navigation links are to the right: Home, Menu, Location, Sign up.</p>
     </li>
     <li>
-        <p>The navigation clearly tells the user the name of the coffeehouse and website and makes the different sections of information easy to find.
+        <p>Home, Menu, Location, has a hoover style that underlines the page the user is on.</p>
+    </li>
+    <li>
+        <p>The navigation clearly tells the user the name of the coffeehouse and website and makes the different sections of information easy to find.</p>
     </li>
 </ul>
 
@@ -37,10 +40,11 @@ Users of this website will be able to find all the information they need to know
 
 <img src="assets/images/readmeimg3.jpg" alt="presentation of Lola Coffeehouse welcome section">
 <hr>
-<h2>Why should you visit us? Section<h2>
+ <h2>Why should you visit us? Section</h2>
+<br>
 <ul>
     <li>
-        <p>The "Why should you visit us?" sectiongives details about what the coffeehouse offers to their customers.</p>  
+        <p>The "Why should you visit us?" section gives details about what the coffeehouse offers to their customers.</p>  
     </li>
     <li>
         <p>The Easy Location, Friendly Envirioment and Monthly Discounts of this section have links inside of each of them that guide the users to other pages and give more information in the detail about each subject selected</p>
@@ -50,4 +54,26 @@ Users of this website will be able to find all the information they need to know
     </li>
 </ul>
 <img src="assets/images/readmeimg4.jpg" alt="presentation of Lola Coffeehouse Ethos">
+<hr> 
+<h2>How do we prepare your coffee! Section</h2>
+<ul>
+    <li>
+        <p>The "How do we prepare your coffee" describe to users that Lola Coffeehouse use a differente way to make coffee. One that is more unique and special.</p>  
+    </li>
+    <li>
+        <p>The video in this section show in the details how unique is the coffee made at Lola Coffeehouse and why the coffee flavour is so special.</p>
+    </li>
+</ul>
+<img src="assets/images/readmeimg5.jpg" alt="presentation of Lola Coffeehouse How do we make your coffee section">
+<hr> 
+<h2>Social media Section</h2>
+<ul>
+    <li>
+        <p>The has the Symbols from Facebook, Instagran and Twitter and all of them are linked with Lola Coffeehouse respective social media pages.</p>  
+    </li>
+    <li>
+        <p>All the 3 Symbols have a hoover style so if the user has the arrow from the mouse pad on top of it the symbol will change color, giving the impression that the symbol is active and is functional to the user</p>
+    </li>
+</ul>
+<img src="assets/images/readmimg6.jpg" alt="presentation of Lola Coffeehouse Social media section">
 <hr> 
