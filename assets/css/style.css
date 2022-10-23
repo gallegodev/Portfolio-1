@@ -629,3 +629,13 @@ footer {
      }
 
 }
+
+/*For medium screens sizes from 320px wide and down*/
+
+@media screen and (max-width: 320px) {
+
+    #menu {
+        font-size: 60%;
+     }
+
+}
