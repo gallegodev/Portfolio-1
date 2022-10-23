@@ -122,3 +122,84 @@ Users of this website will be able to find all the information they need to know
 
 <img src="assets/images/readmeimg8.jpg" alt="presentation of Lola Coffeehouse Location Webpage">
 <hr> 
+
+# Features of Sign up Webpage
+
+<h2>Sign up webpage</h2>
+<br>
+<ul>
+    <li>
+        <p>It has same head and footer from the Home page</p>
+    </li>
+    <li>
+        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment.</p>
+    </li>
+     <li>
+        <p>It has a sign up form that allows the user imput his first name, last name and email. The user need to fill all the text boxes in other to get the 20% discount Voucher.</p>
+    </li>
+    <li>
+        <p>The code it will not allow the user to pass through it withought the proper information on each text box.</p>
+    </li>
+    <li>
+        <p>First Name, Last Name and Email highlighted with Dancing Script font and with a shade of yellow so it calls the attention of the user.</p>
+    </li>
+</ul>
+
+<img src="assets/images/readmeimg9.jpg" alt="presentation of Lola Coffeehouse Sign up Webpage">
+<hr> 
+
+# Testing
+
+<ul>
+    <li>
+        <p>I tested that this page works in different browsers: Chrome, Firefox, Safari.</p>
+    </li>
+    <li>
+        <p>I confirm that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.</p>
+    </li>
+     <li>
+        <p>I confirmed that naviagtion, header, home, menu, sign up, and location text are all readable and easy to understand.</p>
+    </li>
+    <li>
+        <p>I have confirmed that the form works: requires entries in every field, will only accept an email, in the email field, and the submit button works.</p>
+    </li>
+</ul>
+
+# Bugs
+
+<ul>
+    <li>
+        <p>Background images were not covering the entire size frame digned</p>
+    </li>
+    <li>
+        <p>I discovered that the style "background-size: cover;" were missing from the style.css</p>
+    </li>
+     <li>
+        <p>Adding it solved the problem</p>
+    </li>
+</ul>
+
+# Validator Testing
+
+<h2>HTML</h2>
+<ul>
+    <li>
+        <p>No errors were returned when passing through the official W3C validator.</p>
+    </li>
+</ul>
+<br>
+<h2>CSS</h2>
+<ul>
+    <li>
+        <p>No errors were returned when passing through the official (jigsaw) validator.</p>
+    </li>
+</ul>
+<br>
+<h2>Accessibility</h2>
+<ul>
+    <li>
+        <p>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools</p>
+    </li>
+</ul>
+
+<img src="assets/images/readmeimg10.jpg" alt="presentation of Lola Coffeehouse index.html validator accessiblity score">
