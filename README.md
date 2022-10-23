@@ -3,4 +3,4 @@ The Lola Coffeehouse website is a landing page for anybody who is looking for a 
 
 Users of this website will be able to find all the information they need to know about Lola Coffeehouse opening hours, menu, location and several promotions offered on the website.
 
-
+<img src="assets/images/readmeimg1.jpg" alt="presentation of Lola Coffeehouse website with several different screen sizes">
