@@ -202,4 +202,14 @@ Users of this website will be able to find all the information they need to know
     </li>
 </ul>
 
-<img src="assets/images/readmeimg10.jpg" alt="presentation of Lola Coffeehouse index.html validator accessiblity score">
+<h3>Home Webpage Accessibility Score</h3>
+<img src="assets/images/readmeimg13.jpg" alt="presentation of Lola Coffeehouse index.html validator accessiblity score">
+<br>
+<h3>Menu Webpage Accessibility Score</h3>
+<img src="assets/images/readmeimg14.jpg" alt="presentation of Lola Coffeehouse menu.html validator accessiblity score">
+<br>
+<h3>Location Webpage Accessibility Score</h3>
+<img src="assets/images/readmeimg12.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
+<br>
+<h3>Sign up Webpage Accessibility Score</h3>
+<img src="assets/images/readmeimg15.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
