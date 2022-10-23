@@ -78,9 +78,9 @@ Users of this website will be able to find all the information they need to know
 <img src="assets/images/readmimg6.jpg" alt="presentation of Lola Coffeehouse Social media section">
 <hr> 
 
-# Features of Menu Page
+# Features of Menu Webpage
 
-<h2>Menu Page</h2>
+<h2>Menu webpage</h2>
 <br>
 <ul>
     <li>
@@ -98,4 +98,27 @@ Users of this website will be able to find all the information they need to know
 </ul>
 
 <img src="assets/images/readmeimg7.jpg" alt="presentation of Lola Coffeehouse Menu Webpage">
+<hr> 
+
+# Features of Location Webpage
+
+<h2>Location webpage</h2>
+<br>
+<ul>
+    <li>
+        <p>It has same head and footer from the Home page</p>
+    </li>
+    <li>
+        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment, with all the opening hour and location of the coffeehouse .</p>
+    </li>
+    <li>
+        <p>Opening hours highlighted with Dancing Script font and with a shade of yellow so it calls the attention of the user.</p>
+    </li>
+    <li>
+        <p>Google Maps Location attached to the page so the user can better understand where is the location of the Lola Coffeehouse</p>
+    </li>
+    
+</ul>
+
+<img src="assets/images/readmeimg8.jpg" alt="presentation of Lola Coffeehouse Location Webpage">
 <hr> 
