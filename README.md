@@ -204,12 +204,32 @@ Users of this website will be able to find all the information they need to know
 
 <h3>Home Webpage Accessibility Score</h3>
 <img src="assets/images/readmeimg13.jpg" alt="presentation of Lola Coffeehouse index.html validator accessiblity score">
-<br>
 <h3>Menu Webpage Accessibility Score</h3>
 <img src="assets/images/readmeimg14.jpg" alt="presentation of Lola Coffeehouse menu.html validator accessiblity score">
-<br>
 <h3>Location Webpage Accessibility Score</h3>
 <img src="assets/images/readmeimg12.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
-<br>
 <h3>Sign up Webpage Accessibility Score</h3>
 <img src="assets/images/readmeimg15.jpg" alt="presentation of Lola Coffeehouse location.html validator accessiblity score">
+<br>
+<h2>Unfixed Bugs</h2>
+<ul>
+    <li>
+        <p>No unfixed bugs</p>
+    </li>
+</ul>
+
+# Deployment
+<h2>This site was deployed to GitHub pages. The steps to deploy are as follows:</h2>
+<ul>
+    <li>
+        <p>In the GitHub repository, navigate to the Settings tab</p>
+    </li>
+    <li>
+        <p>From the source section drop-down menu, select the Master Branch</p>
+    </li>
+    <li>
+        <p>Once the master branch has been selected, the page provided the link to the completed website.</p>
+    </li>
+</ul>
+<br>
+<p>The live link can be found here - <a href="https://gallegodev.github.io/Portfolio-1/index.html" target="_blank" aria-label=" Visit Lola Coffeehouse webpage (Opens in another page)">Lola Coffeehouse</a>
