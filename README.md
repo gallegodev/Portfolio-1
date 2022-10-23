@@ -5,7 +5,7 @@ Users of this website will be able to find all the information they need to know
 
 <img src="assets/images/readmeimg1.jpg" alt="presentation of Lola Coffeehouse website with several different screen sizes">
 
-# Features
+# Features of Home Page
 
 <h2>The Header</h2>
 <br>
@@ -76,4 +76,26 @@ Users of this website will be able to find all the information they need to know
     </li>
 </ul>
 <img src="assets/images/readmimg6.jpg" alt="presentation of Lola Coffeehouse Social media section">
+<hr> 
+
+# Features of Menu Page
+
+<h2>Menu Page</h2>
+<br>
+<ul>
+    <li>
+        <p>It has same head and footer from the Home page</p>
+    </li>
+    <li>
+        <p>Simple and beautifull designed with background image that reminds the coffeehouse envirioment, with all the menu described and centralised in the webpage.</p>
+    </li>
+    <li>
+        <p>Name of drinks and sandwiches highlighted with Dancing Script font and with a shade of yellow.</p>
+    </li>
+    <li>
+        <p>All the items on the menu are described below their names so the user can understand how each item is made</p>
+    </li>
+</ul>
+
+<img src="assets/images/readmeimg7.jpg" alt="presentation of Lola Coffeehouse Menu Webpage">
 <hr> 
